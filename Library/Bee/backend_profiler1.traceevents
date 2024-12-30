@@ -1,0 +1,555 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1735472453076184, "dur":635, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453076821, "dur":38, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1735472453076874, "dur":9, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1735472453076883, "dur":1000, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1735472453077910, "dur":467, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453078377, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453139383, "dur":540, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453139923, "dur":111, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140034, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140038, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140057, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140060, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140069, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140071, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140080, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140083, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140092, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140093, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140102, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140103, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140110, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140112, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140120, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140122, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140129, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140131, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140135, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140137, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140141, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140142, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140146, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140148, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140152, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140154, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140157, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140159, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140163, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140165, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140169, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140171, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140174, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140176, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140180, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140181, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140186, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140188, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140192, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140193, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140197, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140199, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140203, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140205, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140208, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140210, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140213, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140225, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453140233, "dur":898, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1735472453077638, "dur":745, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453078385, "dur":1365, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453079765, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1735472453079770, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453079826, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1735472453079916, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453082593, "dur":2947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1735472453085542, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453085628, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453086361, "dur":2000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453088380, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453088568, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453088574, "dur":24779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453113364, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453113495, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453113519, "dur":4649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453118181, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453118345, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453118349, "dur":4710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453123070, "dur":702, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453123774, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1735472453123778, "dur":6405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1735472453130195, "dur":9211, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453077677, "dur":717, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453078394, "dur":1360, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453079763, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735472453079912, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453083144, "dur":2850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1735472453086005, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453086099, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453086415, "dur":3466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453089892, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453089964, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453089968, "dur":24687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453114667, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453114751, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453114755, "dur":4697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453119463, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453119577, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453119582, "dur":4485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453124078, "dur":3072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453127153, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1735472453127159, "dur":7027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1735472453134198, "dur":5187, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453077667, "dur":721, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453078388, "dur":1369, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453079765, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1735472453079825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453082975, "dur":3361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1735472453086351, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453086459, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453086470, "dur":24280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453110760, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453110842, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453110846, "dur":5151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453116010, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453116126, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453116132, "dur":4557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453120700, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453120886, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453120890, "dur":4788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1735472453125694, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1735472453125711, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1735472453125717, "dur":3530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1735472453129258, "dur":10151, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453077724, "dur":675, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453078400, "dur":1369, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453079769, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1735472453079825, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453083897, "dur":2605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1735472453086516, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453086683, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453086688, "dur":24858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453111558, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453111720, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453111727, "dur":5159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453116896, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453117016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453117023, "dur":4999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453122037, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453122143, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453122147, "dur":5036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1735472453127193, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1735472453127210, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1735472453127214, "dur":12091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1735472453139324, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1735472453139329, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453077755, "dur":649, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453078404, "dur":1347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453079766, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1735472453079980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453083360, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1735472453086231, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453086310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453086472, "dur":4471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453090954, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453091042, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453091046, "dur":24460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453115525, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453115658, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453115664, "dur":4436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453120109, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453120261, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453120266, "dur":4950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1735472453125240, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1735472453125256, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453125259, "dur":1987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1735472453127262, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1735472453127281, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1735472453127286, "dur":5248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1735472453132543, "dur":6849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453077785, "dur":623, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453078408, "dur":1353, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453079763, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1735472453079826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453083121, "dur":2982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1735472453086116, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453086209, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453086456, "dur":4141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453090606, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453090779, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453090795, "dur":24758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453115568, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453115711, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453115716, "dur":4623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453120351, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453120456, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453120460, "dur":5268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1735472453125738, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1735472453125826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1735472453125830, "dur":3436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1735472453129277, "dur":10145, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453077821, "dur":591, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453078412, "dur":1348, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453079764, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1735472453079920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453082925, "dur":3431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1735472453086368, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453086474, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453086482, "dur":24254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453110747, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453110828, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453110832, "dur":4747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453115596, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453115819, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453115823, "dur":5011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453120846, "dur":687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453121535, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453121539, "dur":4150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1735472453125698, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1735472453125710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453125714, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1735472453129224, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1735472453129303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1735472453129307, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1735472453131196, "dur":8248, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453077848, "dur":568, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453078417, "dur":1353, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453079771, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1735472453079949, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453083011, "dur":3700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1735472453086726, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453086832, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453086839, "dur":25566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453112418, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453112579, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453112583, "dur":4807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453117407, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453117563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453117569, "dur":4894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453122475, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453122608, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453122612, "dur":5616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1735472453128240, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1735472453128255, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1735472453128260, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1735472453131597, "dur":7806, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453077872, "dur":550, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453078422, "dur":1343, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453079765, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1735472453079900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453082946, "dur":3013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1735472453085971, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453086083, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453086394, "dur":3187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453089598, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453089760, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453089765, "dur":24754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453114534, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453114651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453114658, "dur":4740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453119408, "dur":332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453119757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453119762, "dur":4634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1735472453124411, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1735472453124432, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453124452, "dur":989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1735472453125452, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":9, "ts":1735472453125465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453125469, "dur":2992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":9, "ts":1735472453128471, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1735472453128481, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1735472453128485, "dur":2913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1735472453131420, "dur":7968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735472453077908, "dur":519, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735472453078427, "dur":1353, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735472453079783, "dur":15059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735472453094845, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735472453094848, "dur":27712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735472453122580, "dur":1555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735472453124137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1735472453124142, "dur":8823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1735472453132973, "dur":6432, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453077928, "dur":503, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453078431, "dur":1354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453079785, "dur":795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1735472453080582, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453080587, "dur":5392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1735472453085990, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453086114, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453086435, "dur":2991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453089438, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453089558, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453089563, "dur":24633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453114214, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453114339, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453114345, "dur":4955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453119312, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453119579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453119585, "dur":4752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453124352, "dur":358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453124713, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1735472453124720, "dur":5945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1735472453130678, "dur":8707, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453078000, "dur":441, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453078441, "dur":1335, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453079779, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1735472453079828, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453082145, "dur":3117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1735472453085275, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1735472453085288, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453086009, "dur":2526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1735472453088546, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453088639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453088643, "dur":25497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453114165, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453114300, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453114305, "dur":4942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453119256, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453119343, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453119347, "dur":4404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453123762, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453123919, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1735472453123923, "dur":6310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1735472453130248, "dur":9135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453077970, "dur":466, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453078437, "dur":1336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453079773, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1735472453080027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453086049, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1735472453087107, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453087220, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453087224, "dur":25880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453113116, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453113260, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453113266, "dur":4920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453118200, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453118356, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453118361, "dur":5162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453123535, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453123748, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1735472453123754, "dur":6144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1735472453129913, "dur":9505, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453078023, "dur":422, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453078445, "dur":1333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453079782, "dur":504, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453080288, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453081476, "dur":4113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453085600, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453085681, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453086374, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453088343, "dur":654, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453088999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453089003, "dur":24768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453113785, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453114131, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453114138, "dur":4783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453118932, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453119056, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453119060, "dur":4443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453123514, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453123664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1735472453123669, "dur":5834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1735472453129514, "dur":9866, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453078049, "dur":401, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453078450, "dur":1324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453079774, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1735472453079894, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453082934, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1735472453086335, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453086466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453086474, "dur":4495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453090980, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453091085, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453091089, "dur":24447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453115556, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453115737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453115743, "dur":4392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453120146, "dur":1969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453122117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453122123, "dur":6614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1735472453128745, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1735472453128756, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1735472453128759, "dur":2837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1735472453131605, "dur":7799, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453078074, "dur":381, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453078455, "dur":1324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453079779, "dur":10855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":16, "ts":1735472453090636, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453090662, "dur":24676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":16, "ts":1735472453115352, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1735472453115443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453115448, "dur":4381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1735472453119840, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1735472453120117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453120122, "dur":5035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1735472453125170, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1735472453125216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453125222, "dur":2072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1735472453127313, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1735472453127340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1735472453127365, "dur":4985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level1.resS" }}
+,{ "pid":12345, "tid":16, "ts":1735472453132363, "dur":7047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453078107, "dur":352, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453078459, "dur":1313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453079772, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1735472453079906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453083006, "dur":3683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1735472453086703, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453086850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453086856, "dur":25555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453112439, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453112623, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453112629, "dur":4771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453117412, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453117511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453117536, "dur":4957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453122504, "dur":355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453122861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1735472453122876, "dur":7054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":17, "ts":1735472453129940, "dur":9444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453078131, "dur":333, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453078464, "dur":1311, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453079775, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1735472453079826, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453082099, "dur":3262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1735472453085372, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453085540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453086170, "dur":2300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453088481, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453088565, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453088570, "dur":25186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453113769, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453114124, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453114129, "dur":3992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453118133, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453118329, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453118333, "dur":4404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453122747, "dur":1306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453124067, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1735472453124071, "dur":7472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":18, "ts":1735472453131552, "dur":7899, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453078153, "dur":316, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453078470, "dur":1296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453079767, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1735472453080000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453084262, "dur":2386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":19, "ts":1735472453086666, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453086779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453086784, "dur":25279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453112079, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453112199, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453112222, "dur":4642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453116876, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453117007, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453117013, "dur":4989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453122013, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453122198, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453122202, "dur":3941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":19, "ts":1735472453126156, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":19, "ts":1735472453126260, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1735472453126264, "dur":3710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":19, "ts":1735472453129985, "dur":9430, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453078174, "dur":300, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453078474, "dur":1294, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453079777, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":20, "ts":1735472453079824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453082938, "dur":3517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":20, "ts":1735472453086469, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453086599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453086605, "dur":24977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453111602, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453111723, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453111729, "dur":4814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453116553, "dur":892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453117447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453117451, "dur":4977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453122436, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453122558, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453122563, "dur":5715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":20, "ts":1735472453128290, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level0" }}
+,{ "pid":12345, "tid":20, "ts":1735472453128303, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1735472453128306, "dur":2796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level0" }}
+,{ "pid":12345, "tid":20, "ts":1735472453131113, "dur":8292, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453078203, "dur":275, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453078478, "dur":1308, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453079786, "dur":531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2.exe" }}
+,{ "pid":12345, "tid":21, "ts":1735472453080319, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453080323, "dur":5529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2.exe" }}
+,{ "pid":12345, "tid":21, "ts":1735472453085862, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453085948, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453086380, "dur":3356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453089746, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453089861, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453089865, "dur":24578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453114468, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453114695, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453114698, "dur":5000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453119709, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453119880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453119884, "dur":4483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453124380, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453124575, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1735472453124581, "dur":6244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":21, "ts":1735472453130841, "dur":8545, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453078224, "dur":259, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453078483, "dur":1280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453079764, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":22, "ts":1735472453079944, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453082952, "dur":3437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":22, "ts":1735472453086400, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453086499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453086505, "dur":24553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453111071, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453111168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453111173, "dur":4877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453116078, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453116210, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453116214, "dur":4617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453120843, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453121128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453121134, "dur":5029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":22, "ts":1735472453126178, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/resources.resource" }}
+,{ "pid":12345, "tid":22, "ts":1735472453126198, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1735472453126204, "dur":3792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/resources.resource" }}
+,{ "pid":12345, "tid":22, "ts":1735472453130006, "dur":9401, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453078248, "dur":240, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453078488, "dur":1270, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453079764, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":23, "ts":1735472453080006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453084811, "dur":2026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":23, "ts":1735472453086855, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453086977, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453086981, "dur":26101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453113096, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453113189, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453113194, "dur":4428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453117639, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453117783, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453117788, "dur":5039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453122839, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453122935, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1735472453122940, "dur":6304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":23, "ts":1735472453129268, "dur":10110, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453078278, "dur":214, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453078492, "dur":1263, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453079763, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":24, "ts":1735472453079990, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453083868, "dur":2806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":24, "ts":1735472453086686, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453086785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453086789, "dur":24769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453111572, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453111722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453111727, "dur":5145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453116887, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453117008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453117014, "dur":4972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453122000, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453122190, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453122195, "dur":6071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":24, "ts":1735472453128278, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level0.resS" }}
+,{ "pid":12345, "tid":24, "ts":1735472453128295, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1735472453128299, "dur":3909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/BaiduNetdiskDownload/3DTPS2/Unity/2021/Game/3DTPSGame2_Data/level0.resS" }}
+,{ "pid":12345, "tid":24, "ts":1735472453132218, "dur":7261, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1735472453142123, "dur":1306, "ph":"X", "name": "ProfilerWriteOutput" }
+,
